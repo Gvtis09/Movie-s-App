@@ -1,4 +1,4 @@
-  # Movie-s-App
+ # 🍿 Movie-s-App 🎬
  🔥 This Is My First React App 🔥 
 
       This Is't My Design ❌
@@ -7,4 +7,4 @@
 
       Using JavaScript ✅
 
-     Using Cascading Style Sheets ✅
+      Using Cascading Style Sheets ✅
